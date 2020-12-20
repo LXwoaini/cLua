@@ -1,0 +1,30 @@
+TN:
+SF:/home/project/cLua/test.lua
+FN:4,[function test1(i)]
+FN:12,[function test2(i)]
+FN:20,[function test3(i)]
+FN:30,[test4 = function(i)]
+FN:32,[local function test5(i)]
+FNDA:20,[function test1(i)]
+FNDA:80,[function test2(i)]
+FNDA:102,[function test3(i)]
+FNDA:39,[test4 = function(i)]
+FNDA:12,[local function test5(i)]
+FNF:5
+FNH:5
+DA:5,10
+DA:6,10
+DA:8,0
+DA:13,40
+DA:14,19
+DA:16,21
+DA:22,51
+DA:23,51
+DA:25,0
+DA:32,0
+DA:33,12
+DA:36,15
+DA:37,12
+LF:28
+LH:22
+end_of_record
